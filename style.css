@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+
+}
+
+
+.main{
+    background-color: #fff;
+    display: flex;
+    flex-wrap: wrap;
+    width: 1411px;
+    height: 777px;
+    margin: auto;
+    border: 1px solid ;
+
+
+}
+.card{
+    height: 360px;
+    max-width: 259px;
+    background-color: #fff;
+    border: 1px solid;
+    margin-left: 20px;
+    margin-top: 20px;
+    border-radius: 10px;
+
+}
+.btn{
+    font-size: small;
+    height: 20px ;
+    width: 100px;
+    background-color: #52057B1A;
+    border-radius: 5px;
+    text-align: center;
+    margin-left: 10px;
+    margin-top: 10px;
+    color: rgb(128, 62, 139);
+    border: none;
+}
+
+.text{
+    font-size: 16px;
+    font-family: inter;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+.logo{
+    margin-left: 130px;
+    width: 15px;
+    height: 15px;
+    margin-top: 10px;
+}
+
+.img{
+    width: 256px;
+    height: 170px;
+}
+
+.title{
+    font-size: 10px;
+}
+.location{
+    margin-top: 10px;
+    margin-left: 5px;
+    font-size: small;
+
+}
+.sold{
+    margin-left: 195px;
+    margin-top: -14px;
+    font-size: small;
+}
